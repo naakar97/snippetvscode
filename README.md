@@ -1,2 +1,5 @@
-# snippetvscode
-my snippets for html page
+# Snippets code By Juan Antonio Arce
+# En la carpeta SnipetsJs.json encontraras mis snipets de java script que ire actualizando conforme haga mas
+# En la de SnipetsHtml mas de lo mismo con metas, body, footers etc...
+# Dentro del video de ejemplo si se le da a RAW se descarga un video demostrativo de como funcionan varios snippets que hay dentro de las carpetas de json que irian en vs code
+# En la otra carpeta readme encuentras todos los snipets en uno resumiendo mas rapidamente que se pueda ver el formato de todo...
