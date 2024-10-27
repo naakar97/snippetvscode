@@ -1,0 +1,31 @@
+{
+    "slider": {
+        "imagenes": [
+            {
+                "src": "https://example.com/images/image1.jpg",
+                "alt": "Descripción de la imagen 1",
+                "caption": "Esta es la imagen 1"
+            },
+            {
+                "src": "https://example.com/images/image2.jpg",
+                "alt": "Descripción de la imagen 2",
+                "caption": "Esta es la imagen 2"
+            },
+            {
+                "src": "https://example.com/images/image3.jpg",
+                "alt": "Descripción de la imagen 3",
+                "caption": "Esta es la imagen 3"
+            },
+            {
+                "src": "https://example.com/images/image4.jpg",
+                "alt": "Descripción de la imagen 4",
+                "caption": "Esta es la imagen 4"
+            }
+        ],
+        "settings": {
+            "autoplay": true,
+            "duration": 3000,
+            "transitionEffect": "fade"
+        }
+    }
+}
